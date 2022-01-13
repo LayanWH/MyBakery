@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/mobileapps/MyBakery4/app/src/main/res/drawable/pink_button_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/mobileapps/MyBakery4/app/src/main/res/layout/activity_admin.xml" value="0.25" />
+        <entry key="..\:/mobileapps/MyBakery4/app/src/main/res/layout/activity_adminsignedin.xml" value="0.25" />
+        <entry key="..\:/mobileapps/MyBakery4/app/src/main/res/layout/activity_homepage.xml" value="0.19664072101597707" />
+        <entry key="..\:/mobileapps/MyBakery4/app/src/main/res/layout/activity_main.xml" value="0.36328125" />
+        <entry key="..\:/mobileapps/MyBakery4/app/src/main/res/layout/activity_mappage.xml" value="0.25" />
+        <entry key="..\:/mobileapps/MyBakery4/app/src/main/res/layout/activity_orderpage.xml" value="0.264" />
+        <entry key="..\:/mobileapps/MyBakery4/app/src/main/res/layout/adminpage.xml" value="0.1" />
+        <entry key="..\:/mobileapps/MyBakery4/app/src/main/res/layout/cookiesdialog.xml" value="0.264" />
+        <entry key="..\:/mobileapps/MyBakery4/app/src/main/res/layout/crepedialog.xml" value="0.11854103343465046" />
+        <entry key="..\:/mobileapps/MyBakery4/app/src/main/res/layout/lemondialog.xml" value="0.264" />
+        <entry key="..\:/mobileapps/MyBakery4/app/src/main/res/layout/popsicledialog.xml" value="0.2" />
+        <entry key="..\:/mobileapps/MyBakery4/app/src/main/res/layout/vanilladialog.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
